@@ -1,4 +1,38 @@
 baseURL = "http://disper.me/"
 languageCode = "en-us"
-title = "Michal 'Disper' Drzewiecki"
+title = "Michał 'Disper' Drzewiecki"
 theme = "aerial"
+
+[params]
+  name = "Michał 'Disper' Drzewiecki"
+  about = "Scrum Master &nbsp;&bull;&nbsp; Real Estates Adventurer &nbsp;&bull;&nbsp; Runner &nbsp;&bull;&nbsp; Boardgames lover"
+  copyright = "Untitled"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = ""
+  favicon = "favicon.ico"
+
+[[params.social]]
+  medium = "Blog"
+  icon = "blog"
+  link = "http://blog.disper.me"
+
+[[params.social]]
+  medium = "Twitter"
+  icon = "twitter"
+  link = "http://twitter.com/disper"
+
+[[params.social]]
+  medium = "Facebook"
+  icon = "facebook"
+  link = "https://www.facebook.com/arkezion"
+
+
+[[params.social]]
+  medium = "Github"
+  icon = "github"
+  link = "http://github.com/disper"
+
+[[params.social]]
+  medium = "Email"
+  icon = "envelope-o"
+  link = "mailto:mail(at)disper(dot)me"
