@@ -1,3 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://disper.me/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Michal 'Disper' Drzewiecki"
+theme = "aerial"
